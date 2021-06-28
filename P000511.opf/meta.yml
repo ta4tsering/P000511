@@ -1,0 +1,28 @@
+id: P000511
+initial_creation_type: ocr
+source_metadata:
+  id: bdr:W1KG16713
+  title: དཔེ་ཝར་མཆོག་སྤྲུལ་འཇམ་དབྱངས་བསོད་ནམས་དབང་པོའི་གསན་ཡིག་འདོད་རྒུའི་བང་མཛོད།
+  author: ''
+  volumes:
+    85f94fe73b574fe4b5f46182a3dd5dc9:
+      image_group_id: I2PD18102
+      title: Volume 1 of dpe war mchog sprul 'jam dbyangs bsod nams dbang po'i gsan
+        yig 'dod rgu'i bang mdzod/
+      volume_number: 1
+      total_pages: 594
+      base_file: v001.txt
+    5fbae1544cd94d90b360dc888de4bda8:
+      image_group_id: I2PD18103
+      title: Volume 2 of dpe war mchog sprul 'jam dbyangs bsod nams dbang po'i gsan
+        yig 'dod rgu'i bang mdzod/
+      volume_number: 2
+      total_pages: 506
+      base_file: v002.txt
+ebook_metadata:
+  title: དཔེ་ཝར་མཆོག་སྤྲུལ་འཇམ་དབྱངས་བསོད་ནམས་དབང་པོའི་གསན་ཡིག་འདོད་རྒུའི་བང་མཛོད།
+  author: ''
+  sku: P000511
+  cover: cover.jpg
+  layers:
+  - pagination
